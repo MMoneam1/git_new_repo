@@ -1,5 +1,0 @@
-New day...new challange
-2nd
-3rd new feature
-1st line in the feature branch
-____END____
